@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    tools:context=".ui.profil.ProfilFragment">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:baselineAligned="false"
+        android:weightSum="12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@color/primary"
+            android:orientation="vertical"
+            tools:ignore="InefficientWeight,UselessParent">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_160sdp"
+                android:background="@drawable/pattern2"
+                tools:ignore="ContentDescription" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewHead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppinsregular"
+        android:gravity="center"
+        android:padding="@dimen/_12sdp"
+        android:text="Profil"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sdp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout_jurnal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_16sdp"
+        android:translationY="@dimen/_minus32sdp"
+        app:cardCornerRadius="@dimen/_10sdp"
+        android:background="@drawable/bg_rounderd_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingVertical="@dimen/_16sdp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txt_nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="@dimen/_18ssp"
+                android:fontFamily="@font/poppinsregular"/>
+
+            <TextView
+                android:id="@+id/txt_jabatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:textColor="@color/primary_light"
+                android:textAlignment="center"
+                android:fontFamily="@font/poppinsregular"/>
+
+            <TextView
+                android:id="@+id/txt_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:fontFamily="@font/poppinsregular"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:layout_marginBottom="@dimen/_16sdp"
+                android:layout_marginHorizontal="@dimen/_32sdp"
+                android:paddingHorizontal="@dimen/_16sdp"
+                android:background="@color/primary_light"/>
+
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:visibility="gone"
+                android:id="@+id/btn_akun"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_rounderd_white"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:layout_marginVertical="@dimen/_4sdp"
+                android:paddingStart="@dimen/_16sdp"
+                android:layout_marginHorizontal="@dimen/_16sdp"
+                android:fontFamily="@font/poppinsregular"
+                android:drawablePadding="@dimen/_16sdp"
+                android:drawableStart="@drawable/ic_baseline_person_24"
+                android:drawableTint="@color/primary"
+                android:text="Akun"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_logout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/_16sdp"
+                android:background="@drawable/bg_rounderd_white"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:layout_marginVertical="@dimen/_4sdp"
+                android:layout_marginHorizontal="@dimen/_16sdp"
+                android:fontFamily="@font/poppinsregular"
+                android:drawablePadding="@dimen/_16sdp"
+                android:drawableStart="@drawable/ic_baseline_exit_to_app_24"
+                android:drawableTint="@color/primary"
+                android:text="Keluar"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgPhoto"
+        android:layout_width="@dimen/_85sdp"
+        android:layout_height="@dimen/_85sdp"
+        android:src="@drawable/ic_man"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewHead" />
+</androidx.constraintlayout.widget.ConstraintLayout>

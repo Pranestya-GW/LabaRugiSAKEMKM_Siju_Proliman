@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable-v24/bg_rounderd_primary_full.xml" value="0.14629629629629629" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_half_rounderd_white.xml" value="0.39692307692307693" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_outline.xml" value="0.2109375" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_orange2.xml" value="0.3592592592592593" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_primary.xml" value="0.39692307692307693" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_primary_outline.xml" value="0.39692307692307693" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_red.xml" value="0.3592592592592593" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_white.xml" value="0.39692307692307693" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_main.xml" value="0.18135764944275581" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_main2.xml" value="0.18819655521783182" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_pemasukan.xml" value="0.35778985507246375" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_pengeluaran.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_profil_edit.xml" value="0.36666666666666664" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/activity_splash.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/fragment_chart.xml" value="0.33" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/fragment_laporan.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/fragment_profil.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/fragment_transaksi.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/item_laporan_labarugi.xml" value="0.38697916666666665" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/item_laporan_labarugi_old.xml" value="0.36666666666666664" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/layout/item_transaksi.xml" value="0.365036231884058" />
+        <entry key="..\:/#PROJECT/Android/AkuntansiSijuProliman/app/src/main/res/menu/bottom_nav_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable-v24/bg_rounderd_primary_full.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable-v24/wave_bg.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/bg_half_rounderd_white.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/bg_outline.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_primary.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_primary_outline.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/bg_rounderd_red.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/ic_baseline_insert_chart_24.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1875" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/activity_pemasukan.xml" value="0.17916666666666667" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/activity_splash.xml" value="0.1490036231884058" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/fragment_chart.xml" value="0.1621376811594203" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/fragment_home.xml" value="0.17916666666666667" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/fragment_laporan.xml" value="0.17916666666666667" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/fragment_transaksi.xml" value="0.25" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/item_laporan_labarugi.xml" value="0.25" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/layout/item_transaksi.xml" value="0.25" />
+        <entry key="..\:/AkuntansiSijuProliman/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/drawable-v24/bg_rounderd_primary_full.xml" value="0.1685" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1685" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/drawable-v24/wave_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/drawable/bg_outline.xml" value="0.1685" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1685" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/activity_login.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/activity_main.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/activity_pemasukan.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/activity_splash.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/fragment_chart.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/fragment_home.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/fragment_laporan.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/layout/item_laporan_labarugi.xml" value="0.159375" />
+        <entry key="..\:/Users/pande/Downloads/AkuntansiSijuProliman/app/src/main/res/menu/bottom_nav_menu.xml" value="0.159375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

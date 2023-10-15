@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item
+        android:id="@+id/navigation_laporan"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24"
+        android:title="@string/title_laporan" />
+
+    <item
+        android:id="@+id/navigation_chart"
+        android:icon="@drawable/ic_baseline_insert_chart_24"
+        android:title="Chart" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_transaksi"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        android:title="@string/title_transaksi" />
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/title_profil" />
+
+</menu>

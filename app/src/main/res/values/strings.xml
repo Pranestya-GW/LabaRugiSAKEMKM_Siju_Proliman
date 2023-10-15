@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Akuntansi UMKM</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_transaksi">Transaksi</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_laporan">Laporan</string>
+    <string name="dash">Atur</string>
+</resources>

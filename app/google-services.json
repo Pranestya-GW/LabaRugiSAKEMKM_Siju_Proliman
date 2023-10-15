@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "850837538246",
+    "project_id": "sistem-akuntansi",
+    "storage_bucket": "sistem-akuntansi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850837538246:android:df61b68f2d213945079ec7",
+        "android_client_info": {
+          "package_name": "com.manastudio.sistemakuntansi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdRyWNsqtlg4_S1gsKunjLd9WAc9Aqw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850837538246:android:0fcf780e93b77102079ec7",
+        "android_client_info": {
+          "package_name": "com.pranes.akuntansiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdRyWNsqtlg4_S1gsKunjLd9WAc9Aqw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850837538246:android:ebe19427347d3898079ec7",
+        "android_client_info": {
+          "package_name": "com.pranes.akuntansisijuproliman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjdRyWNsqtlg4_S1gsKunjLd9WAc9Aqw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850837538246-3dom3ribvg6imv8e6hcpdoapteggu73s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
